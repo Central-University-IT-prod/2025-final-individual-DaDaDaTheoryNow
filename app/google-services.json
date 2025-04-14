@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "754207218426",
+    "project_id": "superfinancer-7136d",
+    "storage_bucket": "superfinancer-7136d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754207218426:android:80966260e3328f972b8743",
+        "android_client_info": {
+          "package_name": "com.dadadadev.superfinancer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "REDACTED"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
